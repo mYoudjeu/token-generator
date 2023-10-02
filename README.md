@@ -1,2 +1,2 @@
 # token-generator
-generate tokens for users
+generate tokens for users with Express
